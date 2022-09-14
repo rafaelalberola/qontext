@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Object Sans';
+    src: url('ObjectSans-Regular.woff2') format('woff2'),
+        url('ObjectSans-Regular.woff') format('woff'),
+        url('ObjectSans-Regular.ttf') format('truetype'),
+        url('ObjectSans-Regular.svg#ObjectSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Object Sans';
+    src: url('ObjectSans-Bold.woff2') format('woff2'),
+        url('ObjectSans-Bold.woff') format('woff'),
+        url('ObjectSans-Bold.ttf') format('truetype'),
+        url('ObjectSans-Bold.svg#ObjectSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
