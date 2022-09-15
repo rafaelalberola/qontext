@@ -1,17 +1,17 @@
 [[redirects]]
 
- from = "https://contact.qontext.co/*"
- to = "https://sprw.io/stt-230117/:splat"
- status = 200
+ from = "https://contact.qontext.co/"
+ to = "https://sprw.io/stt-230117/"
+ status = 301
  force = true # COMMENT: ensure that we always redirect
  headers = {X-From = "Netlify"}
  signed = "API_SIGNATURE_TOKEN"
  
  [[redirects]]
 
- from = "https://book.qontext.co/*"
- to = "https://breezecal.com/qontext/30min-meeting/:splat"
- status = 200
+ from = "https://book.qontext.co/"
+ to = "https://breezecal.com/qontext/30min-meeting/"
+ status = 301
  force = true # COMMENT: ensure that we always redirect
  headers = {X-From = "Netlify"}
  signed = "API_SIGNATURE_TOKEN"
