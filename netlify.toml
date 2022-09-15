@@ -1,6 +1,6 @@
 [[redirects]]
 
- from = "contact.qontext.co/"
+ from = "https://contact.qontext.co/"
  to = "https://qontext.surveysparrow.com/s/contact/tt-230117"
  status = 301
  force = true # COMMENT: ensure that we always redirect
@@ -9,7 +9,7 @@
  
  [[redirects]]
 
- from = "book.qontext.co/"
+ from = "https://book.qontext.co/"
  to = "https://breezecal.com/qontext/30min-meeting/"
  status = 301
  force = true # COMMENT: ensure that we always redirect
